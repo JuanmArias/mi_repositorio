@@ -2,7 +2,8 @@ h1 {
   animation-duration: 1.5s;
   animation-name: aparecer;
   animation-iteration-count: initial;
-
+  margin: 30px 0;
+  
   @keyframes aparecer {
     0% {
       opacity: 0;
@@ -19,6 +20,10 @@ h3,
 h4,
 th {
   color: #ad6785;
+}
+
+h6{
+  margin: 30px 0;
 }
 
 h6,
