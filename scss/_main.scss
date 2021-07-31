@@ -1,0 +1,19 @@
+main {
+  margin: 20px 30px;
+}
+
+#carousel {
+  margin: 0 30px;
+}
+
+.card {
+  margin-bottom: 10px;
+
+}
+
+.card:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  background-color: #e091b2;
+  transform: scale(1.05, 1.05);
+}
